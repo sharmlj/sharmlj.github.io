@@ -1,6 +1,6 @@
-# sharmlj.github.io
+# SURPRISE!
 
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -76,69 +76,12 @@
 
         <div class="seven">
             <div class="baloons">
-                <img src="img/ballon2.svg" alt="" />
-                <img src="img/ballon1.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
-                <img src="img/ballon1.svg" alt="" />
-                <img src="img/ballon2.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
-                <img src="img/ballon2.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
-                <img src="img/ballon1.svg" alt="" />
-                <img src="img/ballon2.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
-                <img src="img/ballon2.svg" alt="" />
-                <img src="img/ballon1.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
-                <img src="img/ballon2.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
-                <img src="img/ballon1.svg" alt="" />
-                <img src="img/ballon2.svg" alt="" />
-                <img src="img/ballon1.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
-                <img src="img/ballon1.svg" alt="" />
-                <img src="img/ballon2.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
-                <img src="img/ballon2.svg" alt="" />
-                <img src="img/ballon1.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
-                <img src="img/ballon2.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
-                <img src="img/ballon1.svg" alt="" />
-                <img src="img/ballon2.svg" alt="" />
-                <img src="img/ballon1.svg" alt="" />
-                <img src="img/ballon3.svg" alt="" />
+                
             </div>
         </div>
 
         <div class="eight">
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
-            </svg>
-            <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="20" cy="20" r="20" />
+            
             </svg>
         </div>
 
@@ -147,13 +90,4 @@
             <p id="replay">Or refresh, if you want to watch it again.</p>
             <p class="last-smile">:)</p>
         </div>
-    </div>
-
-</body>
-    <!-- Greensock -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
-    <!-- Sweetalert -->
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script type="application/javascript" src="./script/main.js"></script>
-
-</html>
+    
