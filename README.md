@@ -29,22 +29,27 @@
         <div class="one">
             <h1 class="one">
                 Hi
-                <span id="name">Grant Neil</span>
+                <span id="name">Babe, Grant Neil</span>
             </h1>
             <p class="two" id="greetingText">How's your day so far?</p>
         </div>
 
         <div class="three">
-            <p>It's your birthday!! :D</p>
+            <p>It's your birthday!!</p>
         </div>
 
         <div class="four">
             <div class="text-box">
                 <p class="hbd-chatbox">
-                Happy birthday to youuu!! Thank you for being a part of my life. Not just literally a part, my escape.I might not know how to motivate you in your bad days, but I always include you in my prayers. No need to be blessed. You already are since the day you met me. HAHA Cheers!
-                <p class="fake-btn">Send</p>
-            </div>
-        </div>
+                Happy birthday to youuu!!
+                Thank you for being a part of my life.
+                Not only a part, my escape.
+                Even if I may not know how to cheer you up on your bad days,
+                you are never far from my thoughts and prayers.
+No need to be blessed.
+You already are since the day you met me.
+HAHA Cheers!
+                
 
         <div class="five">
             <p class="idea-1">Are you smilling yet?</p>
