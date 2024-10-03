@@ -41,13 +41,13 @@
         <div class="four">
             <div class="text-box">
                 <p class="hbd-chatbox">
-                Happy birthday to youuu!!
-                Thank you for being a part of my life.
-                Not only a part, my escape.
-                Even if I may not know how to cheer you up on your bad days,
-                you are never far from my thoughts and prayers.
-No need to be blessed.
-You already are since the day you met me.
+                Happy birthday to youuu!!<br>
+                Thank you for being a part of my life.<br>
+                Not only a part, my escape.<br>
+                Even if I may not know how to cheer you up on your bad days,<br>
+                you are never far from my thoughts and prayers.<br>
+No need to be blessed.<br>
+You already are since the day you met me.<br>
 HAHA Cheers!
                 
 
@@ -55,13 +55,14 @@ HAHA Cheers!
             <p class="idea-1">Are you smilling yet?</p>
             <p class="idea-2">I hope you are.</p>
             <p class="idea-3">
-                I'm not cheesy by default, I just realised, I wanted to do something<br>
-                <strong>special</strong>
+                I'm not cheesy normally. This thing made me cringe right now<br>
+But, I just realized, I wanted to do something<br>
+                <strong>special</strong> for you
                 .
             </p>
             <p class="idea-4">Because,</p>
             <p class="idea-5">
-                You are very special.
+                <strong>You are very special.</strong>
                 <span>:)</span>
             </p>
             <p class="idea-6">
@@ -75,7 +76,7 @@ HAHA Cheers!
             <img src="img/hat.svg" alt="hat" class="hat" />
             <div class="wish">
                 <h3 class="wish-hbd">Happy Birthday!</h3>
-                <h5 id="wishText">May all your dreams come to reality! ;)</h5>
+                <h5 id="wishText">May all your dreams come to reality! </h5>
             </div>
         </div>
 
@@ -91,8 +92,8 @@ HAHA Cheers!
         </div>
 
         <div class="nine">
-            <p>Okay, now, tell me if you liked it.</p>
-            <p id="replay">Or refresh, if you want to watch it again.</p>
+            <p>Okay, now, tell me if you liked this.</p>
+            <p id="replay">and i hope you really liked this.</p>
             <p class="last-smile">:)</p>
         </div>
     
