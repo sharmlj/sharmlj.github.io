@@ -25,6 +25,13 @@
         Your browser isn't invited for super fun audio time.
     </audio>
 
+
+<audio controls autoplay>
+  <source src="https://youtu.be/y2KGVG7TOYk?si=uimFyLNJAFMMMrvT" type="audio/ogg">
+  <source src="https://youtu.be/y2KGVG7TOYk?si=uimFyLNJAFMMMrvT.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
     <div class="container">
         <div class="one">
             <h1 class="one">
@@ -55,10 +62,10 @@ HAHA Cheers!
             <p class="idea-1">Are you smilling yet?</p>
             <p class="idea-2">I hope you are.</p>
             <p class="idea-3">
-                I'm not cheesy normally. This thing made me cringe right now<br>
-But, I just realized, I wanted to do something<br>
-                <strong>special</strong> for you
-                .
+                I'm not cheesy or corny as I am right now normally. <br>
+In fact, this thing made me cringe. HAHA <br>
+But, I just realized, I wanted to do something
+                <strong>special</strong> for you.
             </p>
             <p class="idea-4">Because,</p>
             <p class="idea-5">
